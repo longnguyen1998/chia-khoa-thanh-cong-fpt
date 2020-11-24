@@ -1100,3 +1100,4 @@ many shortcuts can be taken when safety-critical software is being developed. | 
 redundancy, the provision of multiple interchangeable components to perform a single function, is a key element of the standard decision support system. | false
 reliability is the probability of a component or system performing without failure over its product life. | true
 failure mode and effects analysis is an important technique used to develop iso 9000-compliant systems by both evaluating reliability and determining the effects of system and equipment failures. | true
+The _____ approach to ethics has its roots in the teachings of the ancient Greek philosopher Aristotle, who said that "equals should be treated equally and unequals unequally". | fairness or justice
